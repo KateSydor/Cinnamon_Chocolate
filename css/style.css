@@ -100,7 +100,6 @@ p{
     width: 1000px; display: block; margin-left: auto;margin-right: auto;
 }
 .collections{
-    overflow: auto;
     margin-bottom: 30px;
 }
 .collection-title{
